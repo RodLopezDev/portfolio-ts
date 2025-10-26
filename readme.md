@@ -1,0 +1,3 @@
+```bash
+npx tsc --init
+```
