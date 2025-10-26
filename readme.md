@@ -16,6 +16,12 @@ Run command and check console, src/index.ts is main file
 npm run dev
 ```
 
+### Run test
+
+```bash
+npm run test
+```
+
 ## Usefull commands
 
 ### Command to init TS
